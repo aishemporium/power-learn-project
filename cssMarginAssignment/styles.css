@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: green;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+  }
+  
+  #introduction {
+    background-color: #ffff;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
+  #skills {
+    background-color: #eee;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 19px;
+  }
+  
+  #skills ul {
+    list-style: none;
+  }
+  
+  #skills li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    background-color: green;
+    padding: 20px;
+    color: white;
+  }
+  
+  #contact {
+    padding: 20px;
+  }
+  
